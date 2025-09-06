@@ -9,6 +9,6 @@
   "author": "OGGA",
   "license": "MIT",
   "dependencies": {
-    "selenium-webdriver": "^3.6"
+    "selenium-webdriver": "^4.34"
   }
 }
